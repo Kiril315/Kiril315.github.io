@@ -1,0 +1,15 @@
+#MainUL{
+	border:double 5px 007; 
+}
+#MainUL img{
+	height: 150px;
+}
+#Mainul li{
+	background-color: rgba();
+	padding: 15px;
+	margin: 30px;
+	width: 130px;
+}
+#Mainul img{
+		height: 100%;
+		
